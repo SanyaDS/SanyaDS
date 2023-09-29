@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SanyaDS/SanyaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: [Ссылка](https://www.linkedin.com/in/sanyads/)  
+CV: [Ссылка](https://www.github.com/SanyaDS/SanyaDS/blob/main/QA%20CV%20Resume.pdf/)  
+Telegram: [Ссылка](https://www.t.me/ds2k10/)
 
-Here are some ideas to get you started:
+## Homework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Terminal linux
+- [x] Git
+- [ ] Client Server
+- [ ] SQL
+- [ ] Postman
+- [x] ADB
+- [ ] Charles
+- [x] Fiddler
