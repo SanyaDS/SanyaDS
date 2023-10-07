@@ -6,7 +6,7 @@ Telegram: [Ссылка](https://www.t.me/ds2k10/)
 - [x] Git
 - [ ] Client Server
 - [ ] SQL
-- [ ] Postman
+- [x] Postman
 - [x] ADB
 - [ ] Charles
 - [x] Fiddler
