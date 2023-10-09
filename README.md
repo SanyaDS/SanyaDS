@@ -4,7 +4,7 @@ Telegram: [Ссылка](https://www.t.me/ds2k10/) [Ctrl + Click]
 
 - [x] Terminal linux
 - [x] Git
-- [ ] Client Server
+- [ ] Client server
 - [ ] SQL
 - [x] Postman
 - [x] ADB
