@@ -3,8 +3,8 @@ CV: [Ссылка](https://www.github.com/SanyaDS/SanyaDS/blob/main/QA%20CV%20Re
 Telegram: [Ссылка](https://www.t.me/ds2k10/) [Ctrl + Click]
 
 - [x] [TerminalLinux](https://github.com/SanyaDS/TerminalLinux)
-- [x] [Git](https://github.com/SanyaDS/GitHub)
-- [ ] Client server
+- [x] [GitHub](https://github.com/SanyaDS/GitHub)
+- [ ] ClientServer
 - [ ] SQL
 - [x] [Postman](https://github.com/SanyaDS/Postman)
 - [x] ADB
