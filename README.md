@@ -4,9 +4,4 @@ Telegram: [Ссылка](https://www.t.me/ds2k10/) [Ctrl + Click]
 
 - [x] [TerminalLinux](https://github.com/SanyaDS/TerminalLinux)
 - [x] [GitHub](https://github.com/SanyaDS/GitHub)
-- [ ] ClientServer
-- [ ] SQL
 - [x] [Postman](https://github.com/SanyaDS/Postman)
-- [x] ADB
-- [ ] Charles
-- [x] Fiddler
